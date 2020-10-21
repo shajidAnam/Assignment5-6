@@ -1,4 +1,5 @@
-{
+[{
+
   "id":1,
   "InstituteName":"Dhaka City College",
   "DitrictValue":"Dhaka",
@@ -6,4 +7,33 @@
   "InstituteEmail":"dhakacitycollege@gmail.com",
   "InstitutePhone":"01680861295",
   "InstituteImageUrl":"https://i.imgur.com/UPFA3g8.jpg"
+
 }
+{
+  "id":2,
+  "InstituteName":"Dhaka City College",
+  "DitrictValue":"Dhaka",
+  "ChiefValue":"Shahjahan",
+  "InstituteEmail":"dhakacitycollege@gmail.com",
+  "InstitutePhone":"01680861295",
+  "InstituteImageUrl":"https://i.imgur.com/UPFA3g8.jpg"
+}
+{
+  "id":3,
+  "InstituteName":"Dhaka City College",
+  "DitrictValue":"Dhaka",
+  "ChiefValue":"Shahjahan",
+  "InstituteEmail":"dhakacitycollege@gmail.com",
+  "InstitutePhone":"01680861295",
+  "InstituteImageUrl":"https://i.imgur.com/UPFA3g8.jpg"
+}
+{
+  "id":4,
+  "InstituteName":"Dhaka City College",
+  "DitrictValue":"Dhaka",
+  "ChiefValue":"Shahjahan",
+  "InstituteEmail":"dhakacitycollege@gmail.com",
+  "InstitutePhone":"01680861295",
+  "InstituteImageUrl":"https://i.imgur.com/UPFA3g8.jpg"
+}
+]
